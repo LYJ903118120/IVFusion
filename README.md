@@ -15,5 +15,5 @@ In 'test.m' and 'readme.txt'file, you will find how to run these codes.
 ## Framework of our proposed method
 <img src="https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%201.jpg" width="900" height="200" />
 ## Performance in the TNO dataset
-<img src=https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%206.jpg" width="600" height="500" />
+<img src="https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%206.jpg" width="600" height="500" />
 
