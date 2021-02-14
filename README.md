@@ -2,4 +2,4 @@ An infrared and visible image fusion method based on multi-scale transformation 
 =
 Information Fusion.,
 Note
-=
+===
