@@ -14,4 +14,6 @@ In 'test.m' and 'readme.txt'file, you will find how to run these codes.
 ⑸Our method facilitates target detection, recognition, and tracking for intelligent systems.
 ## Framework of our proposed method
 <img src="https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%201.jpg" width="900" height="200" />
+### Performance in the TNO dataset
+<img src=https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%206.jpg" width="500" height="500" />
 
