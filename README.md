@@ -17,4 +17,4 @@ In 'test.m' and 'readme.txt'file, you will find how to run these codes.
 
 ## Performance in the Stronglight
 <img src="https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%2010(a).jpg" width="350" height="500" />
-<img src="https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%2010(b).jpg" width="350" height="300" />
+<img src="https://github.com/LYJ903118120/IVFusion/blob/main/Paper%20Picture/Figure%2010(b).jpg" width="350" height="200" />
