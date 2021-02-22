@@ -26,8 +26,8 @@ If you think our thesis ideas are helpful to you, please light up the stars for 
 
 ## Citation
 >@article{author = {Guofa Li, Yongjie Lin, Xingda Qu},
-              title = {An infrared and visible image fusion method based on multi-scale transformation and norm optimization},
-              year = {2021},
-              journal = {Information Fusion},
-              publisher={Elsevier}
-}
+              >title = {An infrared and visible image fusion method based on multi-scale transformation and norm optimization},
+              >year = {2021},
+              >journal = {Information Fusion},
+              >publisher={Elsevier}
+>}
