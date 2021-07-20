@@ -1,5 +1,6 @@
 # An infrared and visible image fusion method based on multi-scale transformation and norm optimization
 Information Fusion.,2021,
+Interpretation of the paper: https://blog.csdn.net/qq_35635885/article/details/113863767
 ## Note
 In 'test.m' file, you will find how to run these codes.
 ## Highlights
